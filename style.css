@@ -2,7 +2,13 @@
   body{
     margin: 0;
   }
-
+  .js{
+    font-weight: bold;
+    color:powderblue;
+  }
+   #first{
+      color: green;
+  }
   a {
     color: black;
     text-decoration: none;
